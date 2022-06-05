@@ -1,9 +1,7 @@
 import pyaudio
 import numpy as np
-import pylab
 import time
 import sys
-import matplotlib.pyplot as plt
 import sounddevice as sd
 
 RATE = 44100
